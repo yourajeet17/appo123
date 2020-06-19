@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">appo</string>
+    <string name="seaech">search for Products,Bramds and More</string>
+    <string name="notification">notification</string>
+    <string name="user">user</string>
+    <string name="cart">cart</string>
+</resources>
